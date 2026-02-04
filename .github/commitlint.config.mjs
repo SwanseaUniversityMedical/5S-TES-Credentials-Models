@@ -8,6 +8,7 @@ export default {
       RuleConfigSeverity.Error,
       "always",
       [
+        "",
         "GraphQLRunner-container",
         "SQLRunnerPostgres-container",
         "SQLRunnerTrino-container",
